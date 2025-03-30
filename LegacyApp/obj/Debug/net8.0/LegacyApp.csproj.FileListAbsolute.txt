@@ -9,3 +9,4 @@ C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyAp
 C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
 C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
 C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll
+C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.sourcelink.json

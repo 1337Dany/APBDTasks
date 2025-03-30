@@ -16,3 +16,4 @@ C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyAppConsumer\obj\Debug\net8.0\
 C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.pdb
 C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.genruntimeconfig.cache
 C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyAppConsumer\obj\Debug\net8.0\ref\LegacyAppConsumer.dll
+C:\Users\super\Downloads\zadanie (2)\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.sourcelink.json

@@ -2,8 +2,9 @@
 
 namespace LegacyApp
 {
-    public class UserService
+    public class UserService : IUserService
     {
+        public UserService(){}
         public bool AddUser(string firstName, string lastName, string email, DateTime dateOfBirth, int clientId)
         {
             if (!(isNameValid(firstName, lastName) && isEmailValid(email) && isAgeValid(dateOfBirth)))
